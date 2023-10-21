@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning computer science (beginner)
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me: islabellevitoria@discente.ufg.br
+- I speak english and portuguese fluently.
 
 <!---
 islabellevitoria/islabellevitoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
