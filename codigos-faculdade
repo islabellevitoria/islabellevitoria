@@ -1,0 +1,119 @@
+#include<stdio.h>
+
+void Saque(); void Deposito();
+
+void Investimento(); void Conversor();
+
+void TelaInicial();
+
+
+//onde vai ficar o layout, scanf e chamar as funcoes
+int banco() {
+	int opcao;
+
+	printf("========================================================");
+	printf("\n*                    BANCO UFG                       *\n");
+	printf("========================================================\n");
+    printf("1. Saque\n\n");
+    printf("2. Depósito\n\n");
+    printf("3. Investimento\n\n");
+    printf("4. Conversor de Moedas\n\n");
+    printf("=========================================================\n");
+    printf("Escolha uma opção: ");
+
+	while((scanf("%d",&opcao))!=EOF){
+
+		if(opcao==1) Saque();
+
+		if(opcao==2) Deposito();
+
+		if(opcao==3) Investimento();
+		
+		if(opcao==4) Conversor();
+		
+		if(opcao==5) TelaInicial();
+
+    }
+return 0;
+}
+
+
+
+void Deposito(){
+	
+
+	printf("5. Retornar para a Tela Inicial\n\n");
+
+/* *****Codigo do Deposito*******
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * */
+
+}
+
+void Conversor(){
+	
+
+	printf("5. Retornar para a Tela Inicial\n\n");
+
+/* *****Codigo do Conversor*******
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * */
+
+}
+
+void Investimento(){
+	
+	
+	printf("5. Retornar para a Tela Inicial\n\n");
+/* *****Codigo do Investimento*******
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * */
+
+}
+
+void Saque(){
+	
+	printf("5. Retornar para a Tela Inicial\n\n");
+/* *****Codigo do Saque*******
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * */
+
+}
+
+
+void TelaInicial(){
+	banco();
+}
+
+int main(){
+	banco();
+return 0;
+}
