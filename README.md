@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me: islabellevitoria@discente.ufg.br
 - I speak english and portuguese fluently.
+- https://www.beecrowd.com.br/judge/pt/profile/930546
 
 <!---
 islabellevitoria/islabellevitoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
