@@ -23,6 +23,5 @@ Welcome! This is my GitHub profile where I share my personal projects. My goal i
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=islabellevitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islabellevitoria&layout=compact&theme=dracula"/>
 </div>
