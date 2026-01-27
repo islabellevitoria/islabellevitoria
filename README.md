@@ -17,7 +17,7 @@ Welcome! This is my GitHub profile where I share my personal projects. My goal i
 - **Focus:** Backend Development & Data Engineering
 - **Learning:** Web Scraping
 
-### Let's Connect
+### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/islabelle-vitoria)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islabellevitoria@discente.ufg.br)
 
