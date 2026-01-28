@@ -1,9 +1,7 @@
-### Hi there, I'm Islabelle.
-#### Data Capture Intern @ BigDataCorp | 🎓 CS Student @ UFG
+## Data Capture Intern @ BigDataCorp | 🎓 CS Student @ UFG
 
-Welcome! This is my GitHub profile where I share my personal projects. My goal is to become a Data Engineer. Those are my skills so far:
+#### Hi there, I'm Islabelle and this is my GitHub profile, where I share my personal projects and studies. My goal is to become a Data Engineer. Those are my skills so far:
 
----
 
 ### Tech Stack
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
