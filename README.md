@@ -18,8 +18,3 @@
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/islabelle-vitoria)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islabellevitoria@discente.ufg.br)
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islabellevitoria&layout=compact&theme=dracula"/>
-</div>
